@@ -2,3 +2,23 @@ baseURL = 'https://grgrcrpntr.net'
 languageCode = 'en-gb'
 title = 'grgrcrpntr'
 theme = 'hugo-theme-console'
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  # titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "music"
+  url = "music/"
+
+  [[params.navlinks]]
+  name = "soundart"
+  url = "soundart/"
+
+ [[params.navlinks]]
+  name = "contact"
+  url = "https://www.linkedin.com/in/grgrcrpntr/"
