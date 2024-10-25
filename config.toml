@@ -1,0 +1,4 @@
+baseURL = 'https://grgrcrpntr.net'
+languageCode = 'en-gb'
+title = 'grgrcrpntr'
+theme = 'hugo-theme-console'
