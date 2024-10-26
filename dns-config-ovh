@@ -1,0 +1,11 @@
+# Native settings OVH (deleted)
+grgrcrpntr.net A 213.186.33.5
+www.grgrcrpntr.net A 213.186.33.5
+www.grgrcrpntr.net TXT "3|welcome"
+
+# Modfifed DNS settings for GitHub pages
+grgrcrpntr.net A 185.199.108.153
+grgrcrpntr.net A 185.199.109.153
+grgrcrpntr.net A 185.199.110.153
+grgrcrpntr.net A 185.199.111.153
+www.grgrcrpntr.net	Redirection visible permanente	https://grgrcrpntr.net
