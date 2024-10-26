@@ -1,6 +1,6 @@
 +++
 image = "astrakan.jpg"
-date = "2004-10-15"
+date = "2008-07-01"
 title = "Astrakan"
 type = "gallery"
 +++
