@@ -9,7 +9,7 @@ Cчастье (*'Schastye'* in Russian - *'Happiness'* in English) is a cine-con
 
 **Stephan Oliva** (piano, direction),
 **Lisa Cat-Berro** (saxophone, flute),
-**Laetitia Pansanel-Garric** (double-bass),
+**Laetitia Pansanel-Garric** (double bass),
 **Claire Cittone** (cello),
 **Benjamin de Roubaix** (trombone),
 **Nicolas Titeux** (Didjeridoo, percussions, effects),
