@@ -9,7 +9,7 @@ type = "gallery"
 
 [rootsengine.com](https://rootsengine.com/)
 
-**Enora Petrillo** (lead vocals, flute), **Jean-Baptiste Martin** (trumpet), **Baptiste Véricel** (tenor saxophone, backing vocals), **Stéphane Ghez** (alto and barytone saxophones), **Bertrand Hoarau** (guitar), **Benjamin Frydman** (keyboards), **Grégoire Carpentier** (bass), **Clément Martin** (drums), **François D** (sound).
+**Enora Petrillo** (lead vocals, flute), **Jean-Baptiste Martin** (trumpet), **Baptiste Véricel** (tenor saxophone, backing vocals), **Stéphane Ghez** (alto and barytone saxophones), **Bertrand Hoarau** (guitar), **Benjamin Frydman** (keyboards), **Grégoire Carpentier** (bass), **Clément Martin** (drums), **François Dupuy** (sound).
 
 Listen: [Bandcamp](https://rootsengine.bandcamp.com/), [Spotify](https://open.spotify.com/artist/0fh4P3VvpMzeGdq8YxLG6o), [Deezer](https://www.deezer.com/en/artist/105459592), [Apple Music](https://music.apple.com/fr/artist/roots-engine/1529618209)\
 Follow: [YouTube](https://www.youtube.com/@rootsengine), [Facebook](https://www.facebook.com/RootsEngine), [Instagram](https://www.instagram.com/rootsengine/).
