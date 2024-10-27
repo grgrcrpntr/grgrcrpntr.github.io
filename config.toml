@@ -25,4 +25,4 @@ theme = 'hugo-theme-console'
 
  [[params.navlinks]]
   name = "contact"
-  url = "https://www.linkedin.com/in/grgrcrpntr/"
+  url = "contact/"
