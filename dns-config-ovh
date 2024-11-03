@@ -2,10 +2,11 @@
 grgrcrpntr.net A 213.186.33.5
 www.grgrcrpntr.net A 213.186.33.5
 www.grgrcrpntr.net TXT "3|welcome"
+www.grgrcrpntr.net 60	TXT	"4|https://grgrcrpntr.net"
 
 # Modfifed DNS settings for GitHub pages
 grgrcrpntr.net A 185.199.108.153
 grgrcrpntr.net A 185.199.109.153
 grgrcrpntr.net A 185.199.110.153
 grgrcrpntr.net A 185.199.111.153
-www.grgrcrpntr.net	Redirection visible permanente	https://grgrcrpntr.net
+www.grgrcrpntr.net CNAME grgrcrpntr.github.io
