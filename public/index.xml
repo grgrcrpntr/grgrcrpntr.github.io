@@ -20,7 +20,7 @@
       <link>http://localhost:1313/soundart/globes/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/soundart/globes/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Globes&lt;/em&gt; is an architecture exhibition created by the &lt;a href=&#34;https://www.citedelarchitecture.fr/fr/exposition/globes-architectures-sciences-explorent-le-monde&#34;&gt;Cité d&amp;rsquo;Architecture et du Patrimoine&lt;/a&gt; for its 10th anniversary, fostering theme the sphere as an architectural concept symbolizing Earth and the World. The exhibition features 600 documents in a glittering, nocturnal atmosphere, as well as 15 models from all over the world and 50 others specially built for the occasion. The entire exhibition features a multichannel soundtrack, immersing visitors in an unreal, meditative atmosphere.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;Globes&lt;/em&gt; is an architecture exhibition created by the &lt;a href=&#34;https://www.citedelarchitecture.fr/fr/exposition/globes-architectures-sciences-explorent-le-monde&#34;&gt;Cité d&amp;rsquo;Architecture et du Patrimoine&lt;/a&gt; for its 10th anniversary, fostering the sphere as an architectural concept symbolizing Earth and the World. The exhibition features 600 documents in a glittering, nocturnal atmosphere, as well as 15 models from all over the world and 50 others specially built for the occasion. The entire exhibition features a multichannel soundtrack, immersing visitors in an unreal, meditative atmosphere.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Edelweiss</title>
@@ -87,10 +87,10 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:1313/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://grgrcrpntr.bandcamp.com&#34;&gt;bandcamp&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.facebook.com/grgrcrpntr/&#34;&gt;facebook&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/in/grgrcrpntr/&#34;&gt;linkedin&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/info/</guid>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://grgrcrpntr.bandcamp.com&#34;&gt;bandcamp&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.facebook.com/grgrcrpntr/&#34;&gt;facebook&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/in/grgrcrpntr/&#34;&gt;linkedin&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;about-this-website&#34;&gt;About this website&lt;/h1&gt;&#xA;&lt;p&gt;Powered by &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://github.com/mrmierzejewski/hugo-theme-console/&#34;&gt;Console&lt;/a&gt; Theme&lt;!-- raw HTML omitted --&gt;.&lt;br&gt;&#xA;Hosted by &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;br&gt;&#xA;Carbon Footprint Rating: &lt;a href=&#34;https://www.websitecarbon.com/website/grgrcrpntr-net/&#34;&gt;A+&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
