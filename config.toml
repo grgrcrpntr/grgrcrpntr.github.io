@@ -8,7 +8,7 @@ theme = 'hugo-theme-console'
   # titleCutting = true
 
   # favicon
-  favicon = "/static/favicon.ico"
+  favicon = "/favicon/favicon.ico"
 
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter
